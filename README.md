@@ -1,2 +1,2 @@
 # traning_sets_IR
-training sets of Cis regulatory modules operating in tissues important for insecticide resistance, to be used with SCRMshawHD
+training sets of Cis regulatory modules operating in tissues important for insecticide resistance, to be used with SCRMshawHD. These training sets were used in Dyer et al (2023) "Investigation of cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using allele specific expression". Each directory containg the name of the tissue. The training crm are crms.fa and the non_CRM training seqeunces are neg.fa. Training sequences were identified from Drosoophila genomes as described in Dyer et al (2023)
